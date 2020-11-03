@@ -1,3 +1,3 @@
 # KoKoa clone running
 
-css html
+css and html are so much funny than I thought
